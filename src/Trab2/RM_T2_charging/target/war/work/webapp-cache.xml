@@ -1,0 +1,20 @@
+<webapp-structure>
+  <registeredFiles>
+    <entry>
+      <string>currentBuild</string>
+      <path-set>
+        <pathsSet class="linked-hash-set">
+          <string>META-INF/diameter-openims.properties</string>
+          <string>META-INF/context.xml</string>
+          <string>WEB-INF/web.xml</string>
+          <string>WEB-INF/sip.xml</string>
+          <string>WEB-INF/classes/org/mobicents/servlet/sip/example/DiameterShCodes.class</string>
+          <string>WEB-INF/classes/org/mobicents/servlet/sip/example/DiameterOpenIMSSipServlet.class</string>
+          <string>WEB-INF/classes/org/mobicents/servlet/sip/example/CreditControl.class</string>
+          <string>WEB-INF/classes/org/mobicents/servlet/sip/example/DiameterShClient.class</string>
+          <string>WEB-INF/classes/org/mobicents/servlet/sip/example/CreditControl$1.class</string>
+        </pathsSet>
+      </path-set>
+    </entry>
+  </registeredFiles>
+</webapp-structure>
